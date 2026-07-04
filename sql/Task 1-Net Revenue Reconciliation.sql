@@ -1,7 +1,10 @@
+-- Create the database for the project
 CREATE DATABASE project_sql;
-use project_sql;
 
+-- Use the created database
+USE project_sql;
 
+-- Create a table to store sales transaction details
 CREATE TABLE salestransaction (
     TransactionNo VARCHAR(20),
     Date VARCHAR(20),
