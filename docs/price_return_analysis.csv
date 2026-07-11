@@ -1,4 +1,4 @@
-Price_Range,Total_Transactions,Returned_Transactions,Return_Probability,Return_Rate_Percentage
+Price_Range,Total_Transactions,Returned_Transactions,Return_Rate,Return_Rate_Percentage
 0-5,0,0,,
 5-10,79085,1004,0.01269520136561927,1.269520136561927
 10-20,431139,6706,0.015554148430088672,1.5554148430088672
